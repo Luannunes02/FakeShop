@@ -7,7 +7,7 @@
 <h2><strong> 📝 Descrição:</strong></h2>    
 
 Loja virtual que usa uma API fake de produtos para simular uma loja virtual, foi usado consumo de API e Redux para controlar os estados e armazenar a API.<br><br>
-<strong>Acesse o site e aproveite: https://aula-de-reforco-spa.vercel.app </strong>
+<strong>Acesse o site e aproveite: https://fakeshop-nu.vercel.app </strong>
 <br>
 <br>
 <h2><strong>🚀 Tecnologias usadas:</strong></h2>   
